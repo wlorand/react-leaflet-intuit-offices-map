@@ -1,0 +1,10 @@
+/* TODO: create a styled component instead of a css file -- or translate */
+
+.leaflet-container {
+  height: 88vh; /* todo: get the deal with view-height units */
+  width: 100%;
+}
+
+.popup {
+  font-family: "Avenir Next For Intuit";
+}

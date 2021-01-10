@@ -1,0 +1,148 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.9330137, 32.1448099]
+      },
+      "properties": {
+        "officeId": 1,
+        "officeName": "Intuit Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.6032503, 34.1787362]
+      },
+      "properties": {
+        "officeId": 2,
+        "officeName": "Intuit L.A."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1592241, 32.9582489]
+      },
+      "properties": {
+        "officeId": 3,
+        "officeName": "Intuit San Diego"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.0982533, 37.4306188]
+      },
+      "properties": {
+        "officeId": 4,
+        "officeName": "Intuit Mountain View"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4077464, 37.7848818]
+      },
+      "properties": {
+        "officeId": 5,
+        "officeName": "Intuit S.F."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.3542859, 43.6700312]
+      },
+      "properties": {
+        "officeId": 6,
+        "officeName": "Intuit Idaho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.7784067, 39.4659151]
+      },
+      "properties": {
+        "officeId": 7,
+        "officeName": "Intuit Nevada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.8190766, 33.0846153]
+      },
+      "properties": {
+        "officeId": 8,
+        "officeName": "Intuit Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.5147732, 38.3590481]
+      },
+      "properties": {
+        "officeId": 9,
+        "officeName": "Intuit Virginia"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0225868, 38.893593]
+      },
+      "properties": {
+        "officeId": 10,
+        "officeName": "Intuit Washington D.C."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.4948421, 53.5474907]
+      },
+      "properties": {
+        "officeId": 11,
+        "officeName": "Intuit Canada - Alberta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.6125704, 43.64856]
+      },
+      "properties": {
+        "officeId": 12,
+        "officeName": "Intuit Canada - Ontario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2089613, 19.4292816]
+      },
+      "properties": {
+        "officeId": 13,
+        "officeName": "Intuit Mexico"
+      }
+    }
+  ]
+}
